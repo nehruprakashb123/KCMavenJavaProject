@@ -27,16 +27,16 @@
   </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/KCTehnologies/Maven-Java-Project</connection>
-        <developerConnection>scm:git:https://github.com/KCTehnologies/Maven-Java-Project</developerConnection>
+        <connection>scm:https://github.com/nehruprakashb123/KCMavenJavaProject</connection>
+        <developerConnection>scm:git:https://github.com/nehruprakashb123/KCMavenJavaProject</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/KCTehnologies/Maven-Java-Project</url>
+        <url>https://github.com/nehruprakashb123/KCMavenJavaProject</url>
     </scm>
 	
     <issueManagement>
         <system>GitHub
 	    </system>
-        <url>https://github.com/KCTehnologies/Maven-Java-Project/issues</url>
+        <url>https://github.com/nehruprakashb123/KCMavenJavaProject/issues</url>
     </issueManagement>
 	
 	
@@ -113,7 +113,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <sonar.host.url>http://localhost:9000/</sonar.host.url>
+                <sonar.host.url>http://3.145.134.235:9000/</sonar.host.url>
 				<sonar-maven-plugin.version>3.3.0.603</sonar-maven-plugin.version>
             </properties>
             <build>
